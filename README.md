@@ -1,4 +1,4 @@
-# Zotero Word for Windows Integration
+ # Zotero Word for Windows Integration
 
 This is a Firefox add-on that consists of a library written in C++ that communicates with Microsoft Word out of process using OLE Automation, a js-ctypes wrapper for said library, and a template that is installed into Microsoft Word to communicate with Zotero.
 
